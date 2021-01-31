@@ -13,13 +13,4 @@ JAVA console application that can be used to manage and manipulates files. These
     - Lines that appear in the file
     - Words from the file are searched
 
-### Compiling
 
-Command which ran and created .jar file.
-
-![Image](./src/photos/jarphoto.PNG)
-
-
-This command compiled .java files into .class files in folder called out.
-
-![Image](./src/photos/javaccomplie.PNG)
