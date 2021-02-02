@@ -1,6 +1,6 @@
 
 # File system manager
-JAVA console application that can be used to manage and manipulates files. These features include gathering information from files in the project folder. Logging service that logs all the activities with function calls from the loggging file. This project has been compiled without IDE.
+JAVA console application that can be used to manage and manipulates files. These features include gathering information from files in the project folder. Logging service that logs all the activities with function calls from the logging file. This project has been compiled without IDE.
 
 ### Functionality purpose
 
